@@ -18,9 +18,13 @@
 
 ## 📂 Project Structure
 
+
 ├── VirtualAirSketching.py # Main Python application script
+
 ├── frontend.html # HTML file for Flask route (placeholder)
+
 ├── drawing.png # Drawing saved as PNG (after Save button)
+
 ├── drawing.pdf # Drawing saved as PDF (after Save button)
 
 ---
