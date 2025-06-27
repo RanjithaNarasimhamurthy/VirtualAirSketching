@@ -41,7 +41,7 @@ pip install numpy opencv-python flask pillow
 🖥️ How to Run
 Clone the repository:
 
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/RanjithaNarasimhamurthy/VirtualAirSketching
 cd your-repo-name
 Run the application:
 
@@ -93,6 +93,7 @@ Multi-color simultaneous drawing
 
 ## 🙋 Author
 Developed by Ranjitha Narasimhamurthy
+
 Virtual Air Drawing using real-time color tracking and gesture interaction.
 
 
