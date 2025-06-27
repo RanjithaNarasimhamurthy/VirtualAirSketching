@@ -45,8 +45,10 @@ pip install numpy opencv-python flask pillow
 🖥️ How to Run
 Clone the repository:
 
-git clone https://github.com/RanjithaNarasimhamurthy/VirtualAirSketching
+git clone https://github.com/RanjithaNarasimhamurthy/VirtualAirSketching.git
+
 cd your-repo-name
+
 Run the application:
 
 python VirtualAirSketching.py
