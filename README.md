@@ -53,7 +53,9 @@ python VirtualAirSketching.py
 The application will:
 
 ✅ Open your webcam
+
 ✅ Launch OpenCV windows for drawing and color detection
+
 ✅ Start a Flask server at http://127.0.0.1:5000
 
 ## 🕹️ How to Use
